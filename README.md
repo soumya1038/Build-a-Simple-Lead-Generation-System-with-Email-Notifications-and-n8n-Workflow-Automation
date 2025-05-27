@@ -1,12 +1,3 @@
-🔥 Awesome — yes, since I've seen your whole stack:
-✅ React frontend form sending leads
-✅ Backend (optional or via direct n8n webhook)
-✅ n8n workflow: Webhook → Google Sheets → Send Email
-
-Let’s put together a clean, professional **README.md** you can use for this project 👌
-
----
-
 # 📄 Lead Generation System with Email Notifications and n8n Automation
 
 A simple Lead Generation system where users submit their details via a React frontend form. The data is stored in a **Google Sheet** using **n8n workflow automation** and a notification email is sent for each submission.
